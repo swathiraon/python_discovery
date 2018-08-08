@@ -1,1 +1,1 @@
-# python_discovery-day1
+# python_discovery
